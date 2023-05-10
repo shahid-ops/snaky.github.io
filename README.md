@@ -1,1 +1,1 @@
-# snakyy
+# snaky
