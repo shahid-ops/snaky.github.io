@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Blog</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f2f2f2;
+		}
+
+		header {
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+
+		h1 {
+			margin: 0;
+		}
+
+		nav {
+			background-color: #ddd;
+			padding: 10px;
+			text-align: center;
+		}
+
+		nav a {
+			display: inline-block;
+			margin: 10px;
+			color: #333;
+			text-decoration: none;
+			font-weight: bold;
+		}
+
+		nav a:hover {
+			color: #fff;
+			background-color: #333;
+			padding: 10px;
+			border-radius: 5px;
+		}
+
+		section {
+			margin: 20px;
+		}
+
+		article {
+			background-color: #fff;
+			padding: 20px;
+			border-radius: 5px;
+		}
+
+		footer {
+			background-color: #333;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+			position: fixed;
+			bottom: 0;
+			width: 100%;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>My Blog</h1>
+	</header>
+	<nav>
+		<a href="#">Home</a>
+		<a href="#">About</a>
+		<a href="#">Contact</a>
+	</nav>
+	<section>
+		<article>
+			<h2>My First Post</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu magna sodales, malesuada odio at, tristique ex. In hac habitasse platea dictumst. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus ut turpis quis risus rhoncus venenatis ut euismod metus. Proin id augue metus. Sed ut risus neque. Duis non est non augue consectetur sollicitudin vel eget odio.</p>
+		</article>
+		<article>
+			<h2>My Second Post</h2>
+			<p>Nullam volutpat dignissim enim eu consectetur. Donec varius, lectus ac fringilla feugiat, lorem libero imperdiet justo, vel varius quam arcu at tellus. Donec et laoreet libero. Suspendisse potenti. Nulla consequat magna enim, a lacinia felis molestie a. Aliquam mattis euismod purus, ac aliquam nibh. Proin quis interdum mi, vel vestibulum justo. Sed sit amet posuere justo, ac varius lorem.</p>
+		</article>
+	</section>
+	<footer>
+		<p>&copy; 2023 My Blog</p>
+	</footer>
+    <section>
+        <article>
+            <h2>My Dritter Post</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum porro laudantium, quia voluptatibus sapiente aliquam corporis doloribus sint, officiis quis odit animi ut provident reiciendis, eum iusto voluptate rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi molestiae minus sunt adipisci, nam quasi quidem maiores architecto alias iste rem libero, ipsam odio, eum a veniam. Unde, vero rerum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto aspernatur dolor nemo dicta aliquid hic eius. Commodi modi nesciunt ut inventore dicta quidem enim corporis molestias a eveniet. Deleniti, eligendi?</p>
+        </article>
+
+        <article>
+            <h2>HEHEHE</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum aliquam mollitia beatae quaerat cum asperiores! Est, maxime? Id corrupti labore ratione voluptate illo. Magnam asperiores sunt rerum sed, a totam! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam tempore reprehenderit libero sint magnam autem delectus vel dolorum ab eos cum vitae quasi incidunt deserunt suscipit maiores adipisci, necessitatibus molestiae? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia sequi rem similique facilis velit cupiditate deserunt fugiat eaque molestias, labore accusantium! Distinctio, ad fugiat. Nesciunt corrupti molestiae debitis omnis magni! Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, quasi eaque? Similique, facilis temporibus qui tempora deleniti molestias, laboriosam dolorum voluptatem iure soluta ipsa cumque praesentium natus minus voluptates. Ut.</p>
+
+        </article>
+    </section>
+</body>
+</html>
